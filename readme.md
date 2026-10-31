@@ -1,4 +1,4 @@
-# 💧 Aqua Monitor
+# 💧 AquaMonitor
 
 ### Sistema Inteligente de Monitoramento de Níveis de Água
 
